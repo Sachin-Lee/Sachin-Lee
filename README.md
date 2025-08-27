@@ -11,7 +11,7 @@
 - 🎓 Studying Computer Science (Special) at UWI  
 - 💡 Passionate about problem-solving and building real-world applications  
 - 🌱 Currently learning **Data Structures & Algorithms**, **Databases**, and **Software Engineering**  
-- 🚀 Interests: **Web Development**, **Game Development**, **AI/ML**, and **Open Source**  
+- 🚀 Interests: **Web Development**, **Game Development**, and **AI/ML**  
 
 ---
 
