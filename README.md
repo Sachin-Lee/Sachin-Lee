@@ -60,7 +60,7 @@
 ## 🌐 Connect with Me  
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/sachin-ramphal-859290381/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:your.email@domain.com">
