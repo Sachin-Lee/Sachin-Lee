@@ -40,17 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
 </p>
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-</p>
-
----
-
 ## 📂 Featured Projects  
 
 - 🔹 [**Codetrekkers**](https://github.com/YourGitHubUsername/Codetrekkers) — Web app to explore countries, play flag quizzes, and convert currencies  
@@ -60,13 +49,10 @@
 ## 🌐 Connect with Me  
 
 <p align="left">
-  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/sachin-ramphal-859290381/)" target="_blank">
+  <a href="https://www.linkedin.com/in/sachin-ramphal-859290381/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:your.email@domain.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" />
   </a>
 </p>
